@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    
+    <classes>
+      <class name="com.WMC.login.LoginTest"/>
+      <class name="com.WMC.testcasesMonitor.AddMonitor"/>
+      <class name="com.WMC.testcasesMonitor.UpdateMonitor"/>
+      <class name="com.WMC.testcasesMonitor.DeleteMonitor"/>
+    </classes>
+    
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
